@@ -1,0 +1,5 @@
+C:\Users\llu177\Documents\vscodes\BotOne\BotOne.Core\bin\Debug\BotOne.Core.dll
+C:\Users\llu177\Documents\vscodes\BotOne\BotOne.Core\bin\Debug\BotOne.Core.pdb
+C:\Users\llu177\Documents\vscodes\BotOne\BotOne.Core\obj\Debug\RobotOne.Core.csproj.CoreCompileInputs.cache
+C:\Users\llu177\Documents\vscodes\BotOne\BotOne.Core\obj\Debug\BotOne.Core.dll
+C:\Users\llu177\Documents\vscodes\BotOne\BotOne.Core\obj\Debug\BotOne.Core.pdb
